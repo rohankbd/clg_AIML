@@ -1,0 +1,12 @@
+Position,Level,Salary
+Intern,0,20000
+Junior Developer,1,40000
+Senior Developer,2,60000
+Tech Lead,3,80000
+Manager,4,100000
+Senior manager,5,120000
+HR,6,140000
+Tech Consultant,7,160000
+CFO,8,200000
+CTO,9,500000
+CEO,10,1000000
